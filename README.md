@@ -6,5 +6,5 @@ Use JS modules to generate HTML5. <br>
 Use Webpack to bundle assets.
 
 ## Demo
-*Coming Soon*
+Click [here](https://oasaleh.github.io/restaurant/)!
 
