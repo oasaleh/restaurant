@@ -131,10 +131,15 @@ footer {
   padding: 20px 0;
 }
 #socialMediaContact {
+  display: flex;
+  flex-direction: row;
   padding: 3px 30px;
 }
 .socialmedia {
   display: block;
+}
+#iconInstagram {
+  margin-left: 5px;
 }
 .socialmedia.item {
   padding: 0 5px;
@@ -145,6 +150,10 @@ footer {
   justify-content: space-between;
   list-style: none;
   line-height: 35px;
+}
+.socialmedia.item object {
+  width: 20px;
+  height: 20px;
 }
 .social.icon {
   width: 20px;
